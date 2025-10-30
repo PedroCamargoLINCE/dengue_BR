@@ -3,7 +3,7 @@
 
 # Keep the ignore rules themselves
 !.gitignore
-
+!README.md
 # Preserve core source code
 !src/
 !src/**
@@ -20,3 +20,4 @@ artifacts/*
 artifacts/batch_capital_cities/*
 !artifacts/batch_capital_cities/20251013_144325/
 !artifacts/batch_capital_cities/20251013_144325/**
+.gitignore
